@@ -1,7 +1,7 @@
 
-Script ini untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu kakak !
+Script Ori By Zyko-MD !
 
 <p align="center">
-    <img src="https://telegra.ph/file/2b6d211372e051c55fdda.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/8f43b1f39be57391cc00e.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">ZykoBotz-MD</h1>
+<h1 align="center">RaidenEi-MD</h1>
